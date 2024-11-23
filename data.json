@@ -5,7 +5,8 @@
     "DateTime": "2024-11-23T18:23:11.967",
     "Makeup": "2024-11-23T18:31:42.123",
     "Type": true,
-    "datetype": 0
+    "datetype": 0,
+    "info": null
   },
   {
     "ID": 73,
@@ -13,7 +14,8 @@
     "DateTime": "2024-11-23T18:30:03.683",
     "Makeup": null,
     "Type": true,
-    "datetype": 0
+    "datetype": 0,
+    "info": null
   },
   {
     "ID": 74,
@@ -21,7 +23,8 @@
     "DateTime": "2024-11-23T18:30:09.167",
     "Makeup": null,
     "Type": false,
-    "datetype": 1
+    "datetype": 1,
+    "info": null
   },
   {
     "ID": 75,
@@ -29,7 +32,8 @@
     "DateTime": "2024-11-23T18:30:11.38",
     "Makeup": null,
     "Type": true,
-    "datetype": 2
+    "datetype": 2,
+    "info": null
   },
   {
     "ID": 76,
@@ -37,7 +41,8 @@
     "DateTime": "2024-11-23T18:42:20.57",
     "Makeup": null,
     "Type": true,
-    "datetype": 0
+    "datetype": 0,
+    "info": null
   },
   {
     "ID": 77,
@@ -45,7 +50,8 @@
     "DateTime": "2024-11-23T18:42:32.487",
     "Makeup": null,
     "Type": false,
-    "datetype": 1
+    "datetype": 1,
+    "info": null
   },
   {
     "ID": 78,
@@ -53,6 +59,43 @@
     "DateTime": "2024-11-23T18:42:34.737",
     "Makeup": null,
     "Type": true,
-    "datetype": 2
+    "datetype": 2,
+    "info": null
+  },
+  {
+    "ID": 79,
+    "Account": "jiejie213",
+    "DateTime": "2024-11-23T19:36:47.8",
+    "Makeup": null,
+    "Type": true,
+    "datetype": 0,
+    "info": ""
+  },
+  {
+    "ID": 80,
+    "Account": "jiejie213",
+    "DateTime": "2024-11-23T19:36:54.363",
+    "Makeup": null,
+    "Type": false,
+    "datetype": 1,
+    "info": ""
+  },
+  {
+    "ID": 81,
+    "Account": "jiejie213",
+    "DateTime": "2024-11-23T19:36:56.523",
+    "Makeup": null,
+    "Type": true,
+    "datetype": 2,
+    "info": ""
+  },
+  {
+    "ID": 82,
+    "Account": "jiejie213",
+    "DateTime": "2024-11-23T19:36:47.8",
+    "Makeup": null,
+    "Type": true,
+    "datetype": 0,
+    "info": "11\u671F\u7D50\u675F"
   }
 ]
