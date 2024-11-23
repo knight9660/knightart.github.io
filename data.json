@@ -1,0 +1,58 @@
+[
+  {
+    "ID": 70,
+    "Account": "AWZ123",
+    "DateTime": "2024-11-23T18:23:11.967",
+    "Makeup": "2024-11-23T18:31:42.123",
+    "Type": true,
+    "datetype": 0
+  },
+  {
+    "ID": 73,
+    "Account": "Azz123",
+    "DateTime": "2024-11-23T18:30:03.683",
+    "Makeup": null,
+    "Type": true,
+    "datetype": 0
+  },
+  {
+    "ID": 74,
+    "Account": "AWZ123",
+    "DateTime": "2024-11-23T18:30:09.167",
+    "Makeup": null,
+    "Type": false,
+    "datetype": 1
+  },
+  {
+    "ID": 75,
+    "Account": "AC545",
+    "DateTime": "2024-11-23T18:30:11.38",
+    "Makeup": null,
+    "Type": true,
+    "datetype": 2
+  },
+  {
+    "ID": 76,
+    "Account": "Azz123",
+    "DateTime": "2024-11-23T18:42:20.57",
+    "Makeup": null,
+    "Type": true,
+    "datetype": 0
+  },
+  {
+    "ID": 77,
+    "Account": "Azz123",
+    "DateTime": "2024-11-23T18:42:32.487",
+    "Makeup": null,
+    "Type": false,
+    "datetype": 1
+  },
+  {
+    "ID": 78,
+    "Account": "Azz123",
+    "DateTime": "2024-11-23T18:42:34.737",
+    "Makeup": null,
+    "Type": true,
+    "datetype": 2
+  }
+]
